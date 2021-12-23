@@ -1,0 +1,31 @@
+_repo: The-Goblin-Groom-a-Tale-of-Dunse_66950
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ross, Charles H. (Charles Henry)
+    aliases:
+    - Butt, Boswell, Esq.
+    - Ross, Charles Henry
+    - Ross, C. H. (Charles Henry)
+    - Evans, Edmund
+    - Sloper, Ally
+    deathdate: 1897
+    gutenberg_agent_id: '42407'
+    url: http://www.gutenberg.org/2009/agents/42407
+  - agent_name: Fenwick, R. O.
+    gutenberg_agent_id: '54047'
+    url: http://www.gutenberg.org/2009/agents/54047
+description: ''
+gutenberg_issued: '2021-12-16'
+identifiers:
+  gutenberg: '66950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Goblin Groom
+
+  a Tale of Dunse'
+url: http://www.gutenberg.org/ebooks/66950
