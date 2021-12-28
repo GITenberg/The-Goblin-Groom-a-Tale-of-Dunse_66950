@@ -1,5 +1,8 @@
 _repo: The-Goblin-Groom-a-Tale-of-Dunse_66950
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66950-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ross, Charles H. (Charles Henry)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '54047'
     url: http://www.gutenberg.org/2009/agents/54047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66950#The-Goblin-Groom-a-Tale-of-Dunse
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66950'
